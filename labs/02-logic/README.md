@@ -41,7 +41,7 @@ The purpose of this laboratory exercise is to learn to use different ways of wri
 1. Complete the truth table for 2-bit *Identity comparator* (B equals A), and two *Magnitude comparators* (B is greater than A, B is less than A). Note that, such a digital device has four inputs and three outputs/functions.
 
    | **Dec. equivalent** | **B[1:0]** | **A[1:0]** | **B is greater than A** | **B equals A** | **B is less than A** |
-   | :-: | :-: | :-: | :-: | :-: | :-: |
+   | :-: | :-: | :-: | :-: | :-: | :-: |           |           0             |        1       |          0           |
    |  0 | 0 0 | 0 0 | 0 | 1 | 0 |
    |  1 | 0 0 | 0 1 | 0 | 0 | 1 |
    |  2 | 0 0 | 1 0 | 0 | 0 | 1 |
