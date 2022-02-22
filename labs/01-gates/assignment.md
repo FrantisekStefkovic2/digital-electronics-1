@@ -46,7 +46,6 @@ end architecture dataflow;
 I have chosen "Second" law
 1. Screenshot with code in EDA Playground 
    ![image](https://user-images.githubusercontent.com/99807711/155206081-02487ace-a211-46e1-857c-d94289a21e49.png)
-   ![image](https://user-images.githubusercontent.com/99807711/155204351-94df3f84-9b45-4057-b88c-deabee9123f7.png)
    
 2. Screenshot with simulated time waveforms, which demonstrates, that f(x,y,z)left = f(x,y,z)right      
    ![image](https://user-images.githubusercontent.com/99807711/155204474-dcff0875-e373-4f84-90ec-0cb53f743e37.png)
