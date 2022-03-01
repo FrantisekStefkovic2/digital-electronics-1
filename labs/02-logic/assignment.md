@@ -6,15 +6,17 @@
 
    Greater than:
 
-   ![K-maps](images/kmap_empty.png)
+  ![image](https://user-images.githubusercontent.com/99807711/156258569-0f66e55a-2566-42c1-b4c8-888110735f2d.png)
+
 
    Less than:
 
-   ![K-maps](images/kmap_empty.png)
+   ![image](https://user-images.githubusercontent.com/99807711/156258587-3015cf7c-1207-4d4c-9fb9-cf5b9759cd56.png)
+
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic functions](images/comparator_min.png)
+   ![image](https://user-images.githubusercontent.com/99807711/156258647-5b866b12-266c-4b23-a8f0-5771ca064826.png)
 
 ### 4-bit comparator
 
@@ -50,5 +52,4 @@
    ![your figure]()
 
 3. Link to your public EDA Playground example:
-
-   [https://www.edaplayground.com/...](https://www.edaplayground.com/...)
+   https://www.edaplayground.com/x/vvmX
