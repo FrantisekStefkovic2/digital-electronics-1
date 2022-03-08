@@ -1,4 +1,4 @@
-# Lab 4: Seven-segment display decoder
+# Lab 4: František Štefkovič
 
 <!--
 ![Logo](../../logolink_eng.jpg)
