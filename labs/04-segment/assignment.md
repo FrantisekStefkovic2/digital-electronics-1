@@ -1,4 +1,4 @@
-# Lab 4: František Štefkovič
+# Lab 4: František Štefkovič 230329
 
 ### Seven-segment display decoder
 
