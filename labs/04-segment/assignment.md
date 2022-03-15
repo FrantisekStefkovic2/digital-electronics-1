@@ -16,6 +16,11 @@
 
 
         -- WRITE OTHER TEST CASES HERE
+        -- ÚPRAVA: 
+        
+        
+        
+        -- KONIEC ÚPRAVY
 
 
         report "Stimulus process finished" severity note;
