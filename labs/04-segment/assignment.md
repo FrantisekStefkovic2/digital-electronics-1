@@ -19,7 +19,18 @@
         
         -- ÚPRAVA: 
         
+        s_sel <= "11"; wait for 100 ns;
         
+        s_d <= "111"; s_c <= "110"; s_b <= "101"; s_a <= "100";
+		s_sel <= "00"; wait for 100 ns;
+      
+        s_d <= "111"; s_c <= "110"; s_b <= "101"; s_a <= "100";
+		s_sel <= "10"; wait for 100 ns;
+
+		s_d <= "111"; s_c <= "110"; s_b <= "101"; s_a <= "100";
+		s_sel <= "01"; wait for 100 ns;
+        
+		report "Stimulus process finished
         
         -- KONIEC ÚPRAVY
 
