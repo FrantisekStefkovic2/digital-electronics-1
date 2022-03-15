@@ -17,8 +17,6 @@
 
         -- WRITE OTHER TEST CASES HERE
         
-        -- ÚPRAVA: 
-        
         s_sel <= "11"; wait for 100 ns;
         
         s_d <= "111"; s_c <= "110"; s_b <= "101"; s_a <= "100";
@@ -31,18 +29,16 @@
 		s_sel <= "01"; wait for 100 ns;
         
 		report "Stimulus process finished
-        
-        -- KONIEC ÚPRAVY
-
-
+       
         report "Stimulus process finished" severity note;
         wait;
     end process p_stimulus;
+end architecture testbench;
 ```
 
 2. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+   ![image](https://user-images.githubusercontent.com/99807711/158478098-8487ca82-21cd-4c1f-bd8c-29837a731b51.png)
 
 ### LED(7:4) indicators
 
