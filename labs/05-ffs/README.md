@@ -38,7 +38,7 @@ In this laboratory exercise, you will study the differences between a statically
    <!--
    https://editor.codecogs.com/
    \begin{align*}
-       q_{n+1}^D =&~D \\![image](https://user-images.githubusercontent.com/99807711/158572245-757599c3-c017-458c-9083-54d1bccdf6d3.png)
+       q_{n+1}^D =&~D \\
        q_{n+1}^{JK} =& \\
        q_{n+1}^T =& \\
    \end{align*}
