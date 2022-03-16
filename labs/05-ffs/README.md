@@ -38,12 +38,13 @@ In this laboratory exercise, you will study the differences between a statically
    <!--
    https://editor.codecogs.com/
    \begin{align*}
-       q_{n+1}^D =&~D ![image](https://user-images.githubusercontent.com/99807711/158573025-a334764e-0645-4634-9d08-f480b2291306.png) \\ 
+       q_{n+1}^D =&~D \\ 
        q_{n+1}^{JK} =& \\
        q_{n+1}^T =& \\
    \end{align*}
    -->
-   
+   JK: ![image](https://user-images.githubusercontent.com/99807711/158573146-4f7de6bc-dac2-4002-a28a-459f1039df12.png)
+
 
 
    **D-type FF**
