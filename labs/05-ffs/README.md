@@ -44,6 +44,8 @@ In this laboratory exercise, you will study the differences between a statically
    \end{align*}
    -->
    JK: ![image](https://user-images.githubusercontent.com/99807711/158573208-47c770fc-2cc6-4dfe-960c-d7482fbddbfe.png)
+   T: ![image](https://user-images.githubusercontent.com/99807711/158573360-7f45c60b-647a-4478-891b-89bd52c6fcbf.png)
+
 
 
 
