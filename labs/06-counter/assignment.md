@@ -1,4 +1,4 @@
-# Lab 6: YOUR_FIRSTNAME LASTNAME
+# Lab 6: František Štefkovič (230329)
 
 ### Bidirectional counter
 
