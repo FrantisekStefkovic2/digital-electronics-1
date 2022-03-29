@@ -20,7 +20,7 @@
             elsif(en_i = '1') then
                 if(cnt_up_i = '1') then
                     s_cnt_local <= s_cnt_local + 1;
-                else
+                elsif
                     s_cnt_local <= s_cnt_local - 1;
                 end if;
             end if;
