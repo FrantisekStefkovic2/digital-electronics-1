@@ -1,4 +1,4 @@
-# Lab 7: Driver for multiple seven-segment displays
+# Lab 7: František Štefkovič (230329)
 
 <!--
 ![Logo](../../logolink_eng.jpg)
