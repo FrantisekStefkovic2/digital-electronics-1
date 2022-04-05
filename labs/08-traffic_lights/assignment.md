@@ -1,5 +1,4 @@
-# Lab 8: YOUR_FIRSTNAME LASTNAME
-
+# Lab 8: František Štefkovič (230329)
 ### Traffic light controller
 
 1. Figure of traffic light controller state diagram. The image can be drawn on a computer or by hand. Always name all states, transitions, and input signals!
