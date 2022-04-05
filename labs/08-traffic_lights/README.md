@@ -1,4 +1,4 @@
-# Lab 8: Traffic light controller
+# Lab 8: Traffic light controller František Štefkovič (230329)
 
 <!--
 ![Logo](../../logolink_eng.jpg)
