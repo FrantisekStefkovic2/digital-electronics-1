@@ -28,11 +28,12 @@
                     when "10" =>
                         s_hex <= data2_i;
                         dp_o <= dp_i(2);
-                        dig_o <= "1011"
+                        dig_o <= "1011";
 
                     when "01" =>
-                        -- WRITE YOUR CODE HERE
-
+                        s_hex <= data1_i;
+                        dp_o <= dp_i(1);
+                        dig_o <= "1101"
                     when others =>
                         -- WRITE YOUR CODE HERE
                 end case;
