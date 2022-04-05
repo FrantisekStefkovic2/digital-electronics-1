@@ -26,7 +26,9 @@
                         dig_o <= "0111";
 
                     when "10" =>
-                        -- WRITE YOUR CODE HERE
+                        s_hex <= data2_i;
+                        dp_o <= dp_i(2);
+                        dig_o <= "1011"
 
                     when "01" =>
                         -- WRITE YOUR CODE HERE
