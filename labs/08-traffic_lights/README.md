@@ -36,6 +36,7 @@ In this laboratory exercise you will implement a finite state machine (FSM) in V
 ## Preparation tasks (done before the lab at home)
 
 1. See [schematic](https://github.com/tomas-fryza/digital-electronics-1/blob/master/docs/nexys-a7-sch.pdf) or [reference manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual) of the Nexys A7 board and find out the connection of two RGB LEDs, ie to which FPGA pins are connected and how. How you can control them to get red, yellow, or green colors? Draw the schematic with RGB LEDs.
+![image](https://user-images.githubusercontent.com/99807711/161867099-4532c7f6-0b89-41b4-b33c-afbe3dd0846e.png)
 
 | **RGB LED** | **Artix-7 pin names** | **Red** | **Yellow** | **Green** |
 | :-: | :-: | :-: | :-: | :-: |
