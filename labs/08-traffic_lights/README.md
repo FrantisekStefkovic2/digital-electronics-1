@@ -45,6 +45,8 @@ In this laboratory exercise you will implement a finite state machine (FSM) in V
 
 2. See [schematic](https://github.com/tomas-fryza/digital-electronics-1/blob/master/docs/nexys-a7-sch.pdf) or [reference manual](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual) of the Nexys A7 board and find out to which FPGA pins Pmod ports JA, JB, JC, and JD are connected.
 
+![image](https://user-images.githubusercontent.com/99807711/161944667-869d4f45-9a94-498b-b19e-273947680b84.png)
+
 ![image](https://user-images.githubusercontent.com/99807711/161942140-5e04bb1a-f2a6-46fd-8717-f5de2fd73101.png)
 
 <a name="part1"></a>
