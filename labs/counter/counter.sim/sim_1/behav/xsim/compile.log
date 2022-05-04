@@ -1,0 +1,13 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/clock_enable.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock_enable'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock_enable'
+WARNING: [VRFC 10-3607] overwriting existing primary unit 'clock_enable' [D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd:19]
+ERROR: [VRFC 10-4982] syntax error near '=' [D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd:53]
+ERROR: [VRFC 10-4982] syntax error near '=' [D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd:56]
+ERROR: [VRFC 10-2989] 'cnt_up_i' is not declared [D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd:55]
+ERROR: [VRFC 10-4982] syntax error near 'process' [D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd:73]
+ERROR: [VRFC 10-3763] type error near 'p_clk_ena' ; expected type ' void' [D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd:73]
+ERROR: [VRFC 10-4982] syntax error near 'architecture' [D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd:75]
+ERROR: [VRFC 10-3763] type error near 'behavioral' ; expected type ' void' [D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd:75]
+INFO: [VRFC 10-3070] VHDL file 'D:/Documents/xstefk04/digital-electronics-1/labs/counter/counter.srcs/sources_1/new/cnt_up_down.vhd' ignored due to errors
